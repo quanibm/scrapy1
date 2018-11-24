@@ -1,0 +1,266 @@
+1543058694777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4i9TPgqQMxtd"
+1543058703993	Marionette	INFO	Listening on port 40931
+1543058704137	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3141): dconf-WARNING **: 19:25:16.454: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+1543059934658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F8VvoLamwmIf"
+1543059940613	Marionette	INFO	Listening on port 43645
+1543059940701	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6248, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 6248, Gecko_IOThread] WARNING: pipe error (86): 连接被对方重设: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543059981830	Marionette	INFO	Stopped listening on port 43645
+1543059985489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TBxYxBLSnDmW"
+1543059990525	Marionette	INFO	Listening on port 38835
+1543059990592	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6572, Gecko_IOThread] WARNING: pipe error (102): 连接被对方重设: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543060094350	Marionette	INFO	Stopped listening on port 38835
+1543061365865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ncKaF1OSPJCd"
+1543061371431	Marionette	INFO	Listening on port 35161
+1543061371566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543061533498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PeMJ8oHuMWZC"
+1543061538874	Marionette	INFO	Listening on port 42189
+1543061538885	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1543061839549	geckodriver	INFO	geckodriver 0.21.0
+1543061839553	geckodriver	INFO	Listening on 127.0.0.1:53287
+1543061840558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AMHEo5cImzlG"
+1543061841559	Marionette	INFO	Enabled via --marionette
+1543061845729	Marionette	INFO	Listening on port 38441
+1543061845808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543061845903	Marionette	DEBUG	Register listener.js for window 2147483649
+1543061845961	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1543061846516	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1543061846516	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1543061848878	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signin"
+1543061852815	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signin"
+1543061853264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543061853591	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543061853867	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543061854590	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543061902865	geckodriver	INFO	geckodriver 0.21.0
+1543061902869	geckodriver	INFO	Listening on 127.0.0.1:60801
+1543061903875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ds1ctlRgoSjs"
+1543061905012	Marionette	INFO	Enabled via --marionette
+1543061908887	Marionette	INFO	Listening on port 39075
+1543061908949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543061909090	Marionette	DEBUG	Register listener.js for window 2147483649
+1543061909133	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1543061909812	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1543061909812	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1543061915933	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signin"
+1543061924656	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signin"
+1543061925075	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543061925407	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543061925709	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543061926381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543062055275	geckodriver	INFO	geckodriver 0.21.0
+1543062055281	geckodriver	INFO	Listening on 127.0.0.1:48217
+1543062056289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cv1NqUhPV8OU"
+1543062057229	Marionette	INFO	Enabled via --marionette
+1543062060855	Marionette	INFO	Listening on port 43305
+1543062060887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543062060970	Marionette	DEBUG	Register listener.js for window 2147483649
+1543062061021	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1543062061775	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1543062061775	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1543062068203	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signin"
+1543062069354	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signin"
+1543062069812	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543062070148	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543062070411	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543062070896	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.054b91e2aef6e094a642.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.054b91e2aef6e094a642.css.map not found or invalid
+1543062147889	geckodriver	INFO	geckodriver 0.21.0
+1543062147893	geckodriver	INFO	Listening on 127.0.0.1:53207
+1543062148895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zTorB7v3TZjm"
+1543062149909	Marionette	INFO	Enabled via --marionette
+1543062153749	Marionette	INFO	Listening on port 45631
+1543062153843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543062153915	Marionette	DEBUG	Register listener.js for window 2147483649
+1543062154020	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1543062154755	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1543062154755	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1543062160197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signin"
+1543062162661	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signin"
+1543062163107	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543062163490	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543062163796	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543062164428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543062909026	geckodriver	INFO	geckodriver 0.21.0
+1543062909030	geckodriver	INFO	Listening on 127.0.0.1:36357
+1543062910031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.laiscprkcQFh"
+1543062911306	Marionette	INFO	Enabled via --marionette
+1543062914965	Marionette	INFO	Listening on port 33011
+1543062915026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543062915105	Marionette	DEBUG	Register listener.js for window 2147483649
+1543062915168	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1543062915588	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1543062915588	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1543062918524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signin"
+1543062922002	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signin"
+1543062922525	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543062922999	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543062923318	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543062923941	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1543062985346	geckodriver	INFO	geckodriver 0.21.0
+1543062985349	geckodriver	INFO	Listening on 127.0.0.1:49903
+1543062986355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XKdRDnvffdfI"
+1543062987557	Marionette	INFO	Enabled via --marionette
+1543062991125	Marionette	INFO	Listening on port 43497
+1543062991220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543062991296	Marionette	DEBUG	Register listener.js for window 2147483649
+1543062991332	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1543062992434	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1543062992435	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1543062995172	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signin"
+1543062998181	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signin"
+1543062998754	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543062999124	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543062999451	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543063000040	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1543063027861	geckodriver	INFO	geckodriver 0.21.0
+1543063027868	geckodriver	INFO	Listening on 127.0.0.1:53929
+1543063028871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RuhX5KUxGb92"
+1543063029993	Marionette	INFO	Enabled via --marionette
+1543063034035	Marionette	INFO	Listening on port 42303
+1543063034118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543063034215	Marionette	DEBUG	Register listener.js for window 2147483649
+1543063034267	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1543063038524	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1543063038524	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1543063041490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signin"
+1543063044515	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signin"
+1543063044877	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543063045488	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543063045768	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543063046394	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1543063794631	geckodriver	INFO	geckodriver 0.21.0
+1543063794635	geckodriver	INFO	Listening on 127.0.0.1:58411
+1543063795642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hs7Kvc16Xpky"
+1543063796902	Marionette	INFO	Enabled via --marionette
+1543063800822	Marionette	INFO	Listening on port 39371
+1543063800911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543063800999	Marionette	DEBUG	Register listener.js for window 2147483649
+1543063801084	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1543063802262	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1543063802262	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1543063804871	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signin"
+1543063806253	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signin"
+1543063806596	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543063806916	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543063807203	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543063808028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1543064668519	geckodriver	INFO	geckodriver 0.21.0
+1543064668522	geckodriver	INFO	Listening on 127.0.0.1:46795
+1543064669535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oi0Uqd9OMtWq"
+1543064670795	Marionette	INFO	Enabled via --marionette
+1543064674457	Marionette	INFO	Listening on port 45065
+1543064674515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543064674595	Marionette	DEBUG	Register listener.js for window 2147483649
+1543064674661	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1543064674950	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1543064674950	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1543064677666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signin"
+1543064685431	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signin"
+1543064685948	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543064686250	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543064686529	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543064687013	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1543064728874	geckodriver	INFO	geckodriver 0.21.0
+1543064728878	geckodriver	INFO	Listening on 127.0.0.1:41587
+1543064729881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Qy1hHZAUHAoF"
+1543064731068	Marionette	INFO	Enabled via --marionette
+1543064734688	Marionette	INFO	Listening on port 35607
+1543064734847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543064734927	Marionette	DEBUG	Register listener.js for window 2147483649
+1543064735002	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1543064735523	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1543064735523	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1543064738241	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signin"
+1543064743125	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signin"
+1543064743496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543064743988	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543064744288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543064745028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1543064819841	geckodriver	INFO	geckodriver 0.21.0
+1543064819847	geckodriver	INFO	Listening on 127.0.0.1:36357
+1543064820849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.47gssxxWy8mp"
+1543064821935	Marionette	INFO	Enabled via --marionette
+1543064826425	Marionette	INFO	Listening on port 40083
+1543064826504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543064826600	Marionette	DEBUG	Register listener.js for window 2147483649
+1543064826642	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1543064827176	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1543064827176	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1543064830286	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signin"
+1543064834840	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signin"
+1543064835246	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543064835606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543064835959	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543064836692	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543064901966	geckodriver	INFO	geckodriver 0.21.0
+1543064901974	geckodriver	INFO	Listening on 127.0.0.1:37263
+1543064902972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IUykq4ubU8H5"
+1543064904095	Marionette	INFO	Enabled via --marionette
+1543064907960	Marionette	INFO	Listening on port 45619
+1543064908006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543064908132	Marionette	DEBUG	Register listener.js for window 2147483649
+1543064908216	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1543064908541	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1543064908542	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1543064910866	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signin"
+1543064914408	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signin"
+1543064914888	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543064915198	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543064915496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543064916694	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1543065163884	geckodriver	INFO	geckodriver 0.21.0
+1543065163902	geckodriver	INFO	Listening on 127.0.0.1:42283
+1543065164891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VKWbqnlL6GQH"
+1543065165918	Marionette	INFO	Enabled via --marionette
+1543065170157	Marionette	INFO	Listening on port 44223
+1543065170239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543065170331	Marionette	DEBUG	Register listener.js for window 2147483649
+1543065170428	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1543065171584	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1543065171585	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1543065176310	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signin"
+1543065181336	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signin"
+1543065181835	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543065182160	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543065182447	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1543065183184	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
